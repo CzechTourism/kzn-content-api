@@ -76,6 +76,10 @@ JSON objekt ve tvaru:
         "annotation": "Srdečně vás zveme na předvánoční dílnu, která je určena dětem od 6 do 12 let. Vyrábět se budou vánoční dekorace, děti si vyzkouší jednoduché techniky zdobení skleněných ozdob a dozví se něco o tradičních vánočních zvycích. Dílna je vedena lektorkami, veškerý materiál je zahrnut v ceně dílny.\r\n",
         "url": "https://www.kudyznudy.cz/akce/predvanocni-dilna-pro-deti-1",
         "teaser": "https://www.kudyznudy.cz/files/59/59fdd1b1-1660-47a1-8695-4722720f1682.jpg?v=20191115142230",
+        "gps": {
+            "latitude": 50.5388919,
+            "longitude": 16.2345597999999
+        }
         "dateFrom": "2019-12-04T16:30:00",
         "dateTo": "2019-12-04T18:00:00"
     }
@@ -89,6 +93,7 @@ JSON objekt ve tvaru:
 | annotation | Anotace akce, excerpt |
 | url       | Adresa stránky na portálu KZN |
 | teaser    | Adresa teaser obrázku |
+| gps       | GPS pozice akce |
 | dateFrom  | Datum konání akce od |
 | dateTo    | Datum konání akce do |
 
@@ -152,6 +157,10 @@ JSON objekt ve tvaru:
         "annotation": "Na zámku Nižbor je již několik let zřízeno Keltské informační centrum, které se stalo střediskem nejen kultury dávno zaniklé, ale i Keltství nově se probouzejícího. ",
         "url": "https://www.kudyznudy.cz/aktivity/zamek-nizbor-uz-jste-nekdy-byli-na-miste-kde-se",
         "teaser": "https://www.kudyznudy.cz/files/e2/e2b69b52-51ad-40bc-a652-4dab799006dd.jpg?v=20200128124120",
+        "gps": {
+            "latitude": 50.5388919,
+            "longitude": 16.2345597999999
+        }
     }
     
 
@@ -164,3 +173,4 @@ JSON objekt ve tvaru:
 | annotation | Anotace aktivity, excerpt |
 | url       | Adresa stránky na portálu KZN |
 | teaser    | Adresa teaser obrázku |
+| gps       | GPS pozice aktivity |
