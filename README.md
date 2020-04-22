@@ -55,7 +55,7 @@ Pole JSON objektů ve tvaru:
 
 Služba slouží pro získání detailu konkrétní akce.
 
-    https://www.kudyznudy.cz/services/public/event.ashx?key=<auth_key>id=<guid_akce>
+    https://www.kudyznudy.cz/services/public/event.ashx?key=<auth_key>&id=<guid_akce>
 
 ##### Parametry
 
@@ -136,7 +136,7 @@ Pole JSON objektů ve tvaru:
 
 Služba slouží pro získání detailu konkrétní aktivity.
 
-    https://www.kudyznudy.cz/services/public/activity.ashx?key=<auth_key>id=<guid_aktivity>
+    https://www.kudyznudy.cz/services/public/activity.ashx?key=<auth_key>&id=<guid_aktivity>
 
 ##### Parametry
 
