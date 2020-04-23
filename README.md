@@ -33,7 +33,7 @@ Služba slouží pro získání seznamu akcí.
 | Parametr | Popis |
 | -------- | ----- |
 | key | Autentizační klíč |
-| updated | Nepoviný parametr. Datum poslední aktulizace je větší než uvedené datum |
+| updated | Nepovinný parametr. Datum poslední aktulizace je větší než uvedené datum |
 
 ##### Výstup
 
@@ -113,7 +113,7 @@ Služba slouží pro získání seznamu aktivit.
 | Parametr | Popis |
 | -------- | ----- |
 | key | Autentizační klíč |
-| updated | Nepoviný parametr. Datum poslední aktulizace je větší než uvedené datum |
+| updated | Nepovinný parametr. Datum poslední aktulizace je větší než uvedené datum |
 
 ##### Výstup
 
